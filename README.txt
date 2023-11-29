@@ -1,0 +1,1 @@
+For this lab activity, I have created a fictitious business at home. I have decided one of the first steps I should take towards securing my home office is performing an asset classification of the most crucial electronic devices that connect to my home network. I have created this Excel sheet outlining each asset and their respective details and classiciations.
